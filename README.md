@@ -1,3 +1,5 @@
+#Foodlog application
+
 [Install Ruby and Rails on Windows 10](https://stackify.com/install-ruby-on-windows-everything-you-need-to-get-going/)
 
 [Install Ruby on Windows: Everything You Need to Get Going](https://stackify.com/install-ruby-on-windows-everything-you-need-to-get-going/)
